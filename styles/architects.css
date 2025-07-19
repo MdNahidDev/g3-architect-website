@@ -242,4 +242,8 @@ main>section{
     gap: 50px;
     justify-items: center;
   }
+  #experience-badge{
+    margin-top: 20px;
+    margin-left: 20px;
+  }
 }
